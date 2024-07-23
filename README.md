@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://pin.it/3bdTrPjjh" width=100% alt="Description of the GIF">
-</div>
+![MasterHead](https://pin.it/6MOqY5xK3)
 
 <h2 align="center">Hey there! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Rupal Tyagi.</h2>
 
