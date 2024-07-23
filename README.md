@@ -1,5 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/76/9a/86/769a86d68adb7b0f4f659a3b15ce99c5.gif)
-
+<div align="center">
+  ![MasterHead](https://i.pinimg.com/originals/76/9a/86/769a86d68adb7b0f4f659a3b15ce99c5.gif)
+</div>
 <h2 align="center">Hey there! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Rupal Tyagi.</h2>
 
 
