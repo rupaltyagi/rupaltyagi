@@ -1,78 +1,36 @@
+<div align="center">
+  <img src="https://pin.it/3bdTrPjjh" width=100% alt="Description of the GIF">
+</div>
 
-### Hi there 👋
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rupal-Tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Rupal-Tyagi" /> </p>
-
----
-
-<h2 align="center">My Socials :handshake: </h2>
-<p align="center">
-<a href="https://twitter.com/RupalTyagi">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://www.linkedin.com/in/rupal-tyagi/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://www.instagram.com/letssghost/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
-<a href="mailto:rupal7tyagi@gmail.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
-</a>
-</p>
+<h2 align="center">Hey there! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Rupal Tyagi.</h2>
 
 
+# 💫 About Me:
+🔭 I’m currently in my final year of B. Tech<br>🤝 How to reach me: rupal7tyagi@gmail.com<br>🌱 I’m currently working as backend developer intern. <br>💬 Ask me about DSA, web development & problem solving.<br>⚡ Fun fact: I'm a photo editing enthusiast!
 
----
-<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<h2 align="center">My Tech Stack 🧰</h2>
-<p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg">
-</a>
-</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupal-tyagi-6a1a41236/) 
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rupaltyagi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rupaltyagi&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupaltyagi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rupaltyagi&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rupaltyagi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rupaltyagi&icon=10&color=11)](https://visitcount.itsvg.in)
 
-<h2 align="center">My Tools :gear: </h2>
-<p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://github.com/Rupal-Tyagi">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
- <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="google_cloud_platform" style="vertical-align:top; margin:4px">
-</a>
-
-</p>
-
----
-
-<!-- [![Rupal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupal-Tyagi&hide=prs,issues&theme=gruvbox)](https://github.com/Rupal-Tyagi/github-readme-stats) -->
-<p align="center"> <picture align = "center">
-  <img align = "center" alt="Top Lang." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupal-Tyagi&layout=compact&theme=gruvbox">
-</picture> </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rupal-Tyagi/Rupal-Tyagi/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rupal-Tyagi/Rupal-Tyagi/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<h3 align="center">Thank you for being here. Would love to interact😃 </h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
